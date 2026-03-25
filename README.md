@@ -1,4 +1,4 @@
-# Portfolio
+# Portafolio
 ¡Hola! Mi nombre es Virgilio Herrera, tengo 18 años y actualmente soy estudiante de **Seguridad Informatica**
 
 Mis conocimientos hasta ahora incluyen:
